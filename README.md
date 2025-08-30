@@ -42,13 +42,10 @@
 * **Purge Cookies & Reload (Button)**
 
   * Deletes cookies and reloads the page to reset tracking or detection.
-* **Discord (Button)**
-
-  * Opens the developer/community Discord.
 
 ---
 
-## Convenience Features
+## Convenience
 
 * **Close & Reopen**
 
@@ -63,9 +60,6 @@
 * **Tab Switching**
 
   * Click tabs to switch between Combat / Movement / Visuals / Settings
-
----
-
 
 ---
 
