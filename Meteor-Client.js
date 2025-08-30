@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name            Vape V5
+// @name            Meteor-Client
 // @match           https://*.bloxd.io/*
-// @namespace       vape_v5
+// @namespace       meteor_client
 // @grant           none
 // @version         0.0.6
 // @author          _kroF_ysaerG_
