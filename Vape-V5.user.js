@@ -5,7 +5,7 @@
 // @grant           none
 // @version         0.0.6
 // @author          _kroF_ysaerG_
-// @description   player finder hack in Bloxd io / Keybind : G
+// @description     Bloxd.io Hack Client
 // @license MIT
 // ==/UserScript==
  
