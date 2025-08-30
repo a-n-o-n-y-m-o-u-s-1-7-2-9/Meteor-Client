@@ -1,11 +1,71 @@
 ---
 
-# Vape V5 (Player-Coords Only)
+# Vape V5
 
-## Overview
+---
 
-A **UserScript for Bloxd.io** that adds a coordinate display feature with a simple UI.
-It shows the player’s `(x, y, z)` coordinates next to their name in-game, and you can toggle it on/off from the custom menu.
+## Tabs and Features
+
+### ⚔ Combat
+
+* **Killaura (Toggle Switch)**
+
+  * Automatically attacks enemies.
+* **Auto SW (Button)**
+
+  * Automatically switches spikes or nets.(Keybind : F)
+
+### 🏃 Movement
+
+* **Scaffold (Toggle Switch)**
+
+  * Automatically places blocks while moving in the air.
+  * Assists with fast building and mid-air movement.
+
+### 👁 Visuals
+
+* **Night (Toggle Switch)**
+
+  * Enables night mode or night vision for better visuals.
+* **Spoof Ranks (Button)**
+
+  * Fakes player rank display.
+* **Show Player Coords (Button)**
+
+  * Displays other players’ coordinates.(Keybind : G)
+
+### ⚙ Settings
+
+* **Anti-Ban (Toggle Switch)**
+
+  * Prioritizes safety and reduces detection risk.
+* **Purge Cookies & Reload (Button)**
+
+  * Deletes cookies and reloads the page to reset tracking or detection.
+* **Discord (Button)**
+
+  * Opens the developer/community Discord.
+
+---
+
+## Convenience Features
+
+* **Close & Reopen**
+
+  * Minimizes the panel and shows a red circular reopen button in the bottom-right
+  * Reopen button is draggable and stays within the screen
+
+* **Drag & Move**
+
+  * Drag the header to move the panel freely
+  * Cannot go outside the screen edges
+
+* **Tab Switching**
+
+  * Click tabs to switch between Combat / Movement / Visuals / Settings
+
+---
+
 
 ---
 
