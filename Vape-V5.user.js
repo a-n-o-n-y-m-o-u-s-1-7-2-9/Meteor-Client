@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            Vape V5
+// @name            Vape-V5
 // @match           https://*.bloxd.io/*
 // @namespace       vape_v5
 // @grant           none
