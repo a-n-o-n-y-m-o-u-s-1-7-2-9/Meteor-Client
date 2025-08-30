@@ -1,6 +1,6 @@
 ---
 
-# Player-Coords Mod
+# Vape V5 (Player-Coords Only)
 
 ## Overview
 
