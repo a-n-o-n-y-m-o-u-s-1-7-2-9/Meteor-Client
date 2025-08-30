@@ -35,8 +35,8 @@ It shows the player’s `(x, y, z)` coordinates next to their name in-game, and 
    * [Tampermonkey (Chrome)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    * [Violentmonkey (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 
-2. Install the [Vape-V5.js](https://github.com/a-n-o-n-y-m-o-u-s-1-7-2-9/Bloxd-Hack-Menu-latest-/raw/refs/heads/main/Vape-V5.user.js) script.
-   * Open Tampermonkey dashboard → *Create a new script* → Paste the contents of [Vape-V5.js](https://github.com/a-n-o-n-y-m-o-u-s-1-7-2-9/Bloxd-Hack-Menu-latest-/raw/refs/heads/main/Vape-V5.user.js) script.
+2. Install the [Vape-V5.user.js](https://github.com/a-n-o-n-y-m-o-u-s-1-7-2-9/Bloxd-Hack-Menu-latest-/raw/refs/heads/main/Vape-V5.user.js) script.
+   * Open Tampermonkey dashboard → *Create a new script* → Paste the contents of [Vape-V5.user.js](https://github.com/a-n-o-n-y-m-o-u-s-1-7-2-9/Bloxd-Hack-Menu-latest-/raw/refs/heads/main/Vape-V5.user.js) script.
 
 3. Go to [https://bloxd.io/](https://bloxd.io/).
    You’ll see a new menu labeled **“🚀 Player-Coords Mod”** in the top-left corner.
