@@ -12,7 +12,7 @@
    * [Violentmonkey (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 
 2. Install the [Meteor-Client.js](https://github.com/a-n-o-n-y-m-o-u-s-1-7-2-9/Bloxd-Hack-Menu-latest-/raw/refs/heads/main/Meteor-Client.js) script.
-   * Open Tampermonkey dashboard → *Create a new script* → Paste the contents of [Vape-V5.user.js](https://github.com/a-n-o-n-y-m-o-u-s-1-7-2-9/Bloxd-Hack-Menu-latest-/raw/refs/heads/main/Meteor-Client.js) script.
+   * Open Tampermonkey dashboard → *Create a new script* → Paste the contents of [Meteor-Client.js](https://github.com/a-n-o-n-y-m-o-u-s-1-7-2-9/Bloxd-Hack-Menu-latest-/raw/refs/heads/main/Meteor-Client.js) script.
 
 3. Go to [https://bloxd.io/](https://bloxd.io/).
    You’ll see a new menu labeled **“Meteor Client”** in the bottom-right corner.
@@ -23,7 +23,7 @@
 
 ### ⚔ Combat
 
-* **Killaura (Toggle Switch)**
+* **Killaura (Pached)**
 
   * Automatically attacks enemies.
 * **Auto SW (Button)**
